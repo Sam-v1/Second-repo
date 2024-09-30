@@ -8,7 +8,7 @@ We're talking about Generative AI tools like Cha  tGPT, Dall-E*2, Hugging Face b
 
 You have a chance to hear from people who are not just talking about, but building the next generation tools like Open AI and leaders who've worked for and with Fortune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and more.
 
----
+---  
 ## More Info
 - [The Future in Tech Page]
 - [Episode Guide].
